@@ -1,0 +1,6 @@
+langchain 
+langchain-community
+langchain_chroma
+langchain_community
+streamlit
+chromadb

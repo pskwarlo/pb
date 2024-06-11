@@ -1,0 +1,8 @@
+====== Cele jakości ======
+^ Obszar ^ Cel jakościowy ^ Metryka ^
+| Zadowolenie klienta | Osiągnięcie co najmniej 95% pozytywnych opinii klientów | Procent pozytywnych odpowiedzi w badaniach satysfakcji klienta |
+| Skuteczność procesów wewnętrznych | Redukcja czasu realizacji procesów o 10% w ciągu roku | Średni czas realizacji procesów |
+| Jakość produktu/usługi | Mniej niż 2% produktów/usług z wadami | Procent wadliwych produktów/usług w stosunku do ogólnej liczby |
+| Rozwój pracowników | 100% pracowników uczestniczy w co najmniej jednym szkoleniu rocznie | Procent pracowników uczestniczących w szkoleniach |
+| Efektywność zarządzania | Wprowadzenie 5 nowych metod zarządzania poprawiających efektywność w ciągu roku | Liczba wprowadzonych innowacji w zarządzaniu |
+| Zrównoważony rozwój | Redukcja śladu węglowego firmy o 10% w ciągu roku | Procentowa redukcja emisji CO2 |

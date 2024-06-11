@@ -1,0 +1,8 @@
+====== Analiza interesariuszy ======
+^ Interesariusz      ^ Potrzeby i Oczekiwania                                  ^ Planowane Działania                                  ^ Monitorowanie i Przegląd                       ^
+| Klienci            | Wysoka jakość produktów, terminowe dostawy, konkurencyjne ceny. | Ulepszenie kontroli jakości, skrócenie czasu realizacji zamówień. | Monitorowanie satysfakcji klientów, badanie rynku. |
+| Pracownicy         | Bezpieczne miejsce pracy, możliwości rozwoju, uczciwe wynagrodzenie. | Programy rozwoju zawodowego, inwestycje w BHP.       | Ankiety satysfakcji pracowników, oceny ryzyka BHP. |
+| Dostawcy           | Stabilne zamówienia, terminowe płatności.               | Wdrożenie wspólnego planowania zasobów, regularne oceny. | Ocena dostawców, negocjacje umów.                |
+| Właściciele/Akcjonariusze | Rentowność, wzrost wartości firmy, odpowiedzialność społeczna. | Długoterminowa strategia biznesowa, zarządzanie kosztami. | Raportowanie finansowe, strategia rozwoju.      |
+| Społeczność lokalna | Zatrudnienie lokalne, ochrona środowiska, działania społecznościowe. | Programy społecznej odpowiedzialności biznesu, inicjatywy ekologiczne. | Programy wspierające lokalną społeczność.       |
+| Organizacje regulacyjne i certyfikujące | Przestrzeganie przepisów i standardów. | Stałe aktualizowanie wiedzy, regularne audyty wewnętrzne. | Audyty zewnętrzne, monitorowanie zmian w przepisach. |
